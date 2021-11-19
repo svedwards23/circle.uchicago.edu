@@ -1,4 +1,4 @@
-HTTrack3.49-2+htsswf+htsjava launched on Tue, 16 Nov 2021 18:12:33 at https://www.circle.uchicago.edu/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*[name].https://voices.uchicago.edu/circlehealthcare//*
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 19 Nov 2021 14:34:16 at https://www.circle.uchicago.edu/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*[name].https://voices.uchicago.edu/circlehealthcare//*
 (winhttrack -qwC2%Pns2u1%s%uN0%I0p3DdK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.circle.uchicago.edu/ -O1 "C:\My Web Sites\Circle Website" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*[name].https://voices.uchicago.edu/circlehealthcare//* )
 
 Information, Warnings and Errors reported for this mirror:
@@ -6,83 +6,59 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-18:12:45	Error: 	"Forbidden" (403) at link https://www.circle.uchicago.edu/xmlrpc.php (from https://www.circle.uchicago.edu/)
-18:12:51	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://www.circle.uchicago.edu/)
-18:12:55	Error: 	"Forbidden" (403) at link us-west-2.files.campus.edublogs.org.s3.amazonaws.com/ (from https://www.circle.uchicago.edu/)
-18:13:00	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/wp-content/mu-plugins/divi-builder-additional-modules-files/Divi-Blog-Extras/styles/style.min.css?ver=2.3.2 (from https://www.circle.uchicago.edu/)
-18:13:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/wp-content/themes/divi_uc_2/style.css?ver=2.0.0 (from https://www.circle.uchicago.edu/)
-18:13:06	Error: 	"Forbidden" (403) at link https://www.circle.uchicago.edu/xmlrpc.php?rsd (from https://www.circle.uchicago.edu/)
-18:13:06	Error: 	"Not Found" (404) at link https://www.circle.uchicago.edu/POST (from https://www.circle.uchicago.edu/)
-18:13:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/wp-admin/admin-ajax.php (from https://www.circle.uchicago.edu/)
-18:13:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/files/2020/08/cropped-bed_logo-32x32.png (from https://www.circle.uchicago.edu/)
-18:13:34	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/files/2020/08/announcement-3509489_1920.jpg (from https://www.circle.uchicago.edu/)
-18:13:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/7/2742/files/2020/12/cnn_logo.png (from https://www.circle.uchicago.edu/)
-18:13:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/wp-content/plugins/jetpack/_inc/build/twitter-timeline.min.js?ver=4.0.0 (from https://www.circle.uchicago.edu/)
-18:13:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/wp-content/themes/divi/core/admin/js/common.js?ver=4.10.4 (from https://www.circle.uchicago.edu/)
-18:13:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/wp-includes/js/wp-embed.min.js?ver=5.7.3 (from https://www.circle.uchicago.edu/)
-18:13:38	Error: 	"Not Found" (404) at link https://www.circle.uchicago.edu/wp-content/themes/divi/includes/builder/images/subscribe-loader.gif (from https://www.circle.uchicago.edu/wp-content/themes/divi/style-static.min.css?ver=4.10.5)
-18:13:38	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/wp-content/plugins/jetpack/modules/shortcodes/images/expand.png (from https://www.circle.uchicago.edu/wp-content/plugins/jetpack/css/jetpack.css?ver=9.6.1)
-18:13:38	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/wp-content/plugins/jetpack/modules/shortcodes/images/collapse.png (from https://www.circle.uchicago.edu/wp-content/plugins/jetpack/css/jetpack.css?ver=9.6.1)
-18:13:40	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/wp-admin/admin-ajax.php (from https://www.circle.uchicago.edu/)
-18:13:40	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/files/2020/08/cropped-bed_logo-32x32.png (from https://www.circle.uchicago.edu/)
-18:13:41	Warning: 	Moved Permanently for https://www.circle.uchicago.edu/?p=7
-18:13:41	Warning: 	File has moved from https://www.circle.uchicago.edu/?p=7 to https://www.circle.uchicago.edu/about-us/
-18:13:41	Error: 	"Not Found" (404) at link https://www.circle.uchicago.edu/about-us/POST (from https://www.circle.uchicago.edu/about-us/)
-18:13:41	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/files/2020/08/Serena-Dhaon-Headshot-Round.png (from https://www.circle.uchicago.edu/about-us/)
-18:13:41	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/files/2020/08/Amanda-Calipo-Headshot-Round-300x300.png (from https://www.circle.uchicago.edu/about-us/)
-18:13:41	Warning: 	Moved Permanently for https://www.circle.uchicago.edu/?p=200
-18:13:41	Warning: 	File has moved from https://www.circle.uchicago.edu/?p=200 to https://www.circle.uchicago.edu/projects/
-18:13:41	Error: 	"Not Found" (404) at link https://www.circle.uchicago.edu/projects/POST (from https://www.circle.uchicago.edu/projects/)
-18:13:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/7/2742/files/2020/09/ignite-logo-300x167.png (from https://www.circle.uchicago.edu/projects/)
-18:13:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/7/2742/files/2020/08/IMPACT-logo-with-name-300x300.png (from https://www.circle.uchicago.edu/projects/)
-18:13:43	Warning: 	Moved Permanently for https://www.circle.uchicago.edu/?p=416
-18:13:43	Warning: 	File has moved from https://www.circle.uchicago.edu/?p=416 to https://www.circle.uchicago.edu/publications/
-18:13:43	Error: 	"Not Found" (404) at link https://www.circle.uchicago.edu/publications/POST (from https://www.circle.uchicago.edu/publications/)
-18:13:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/files/2020/08/shm-blog-logo-e1599406661124.png (from https://www.circle.uchicago.edu/publications/)
-18:13:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/files/2020/08/shm-blog-logo-e1599406661124-300x44.png (from https://www.circle.uchicago.edu/publications/)
-18:13:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/files/2020/09/microscope-275984_1920.jpg (from https://www.circle.uchicago.edu/publications/)
-18:13:44	Warning: 	Note: due to https://login.proxy.uchicago.edu remote robots.txt rules, links beginning with these path will be forbidden: / (see in the options to disable this)
-18:13:45	Warning: 	Moved Permanently for https://www.circle.uchicago.edu/?p=466
-18:13:45	Warning: 	File has moved from https://www.circle.uchicago.edu/?p=466 to https://www.circle.uchicago.edu/media/
-18:13:45	Error: 	"Not Found" (404) at link https://www.circle.uchicago.edu/media/POST (from https://www.circle.uchicago.edu/media/)
-18:13:45	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/wp-json/wp/v2/pages/485 (from https://www.circle.uchicago.edu/contact-us/)
-18:13:45	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/?p=485 (from https://www.circle.uchicago.edu/contact-us/)
-18:13:46	Error: 	"Not Found" (404) at link https://www.circle.uchicago.edu/contact-us/POST (from https://www.circle.uchicago.edu/contact-us/)
-18:13:46	Warning: 	Moved Permanently for https://www.circle.uchicago.edu/?p=301
-18:13:46	Warning: 	File has moved from https://www.circle.uchicago.edu/?p=301 to https://www.circle.uchicago.edu/projects/siesta/
-18:13:46	Error: 	"Not Found" (404) at link https://www.circle.uchicago.edu/projects/siesta/POST (from https://www.circle.uchicago.edu/projects/siesta/)
-18:13:46	Warning: 	Found for https://www.circle.uchicago.edu/files/2020/08/announcement-3509489_1920.jpg
-18:13:46	Warning: 	Warning moved treated for https://www.circle.uchicago.edu/files/2020/08/announcement-3509489_1920.jpg (real one is https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/7/2742/files/2020/08/announcement-3509489_1920.jpg)
-18:13:46	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/wp-content/plugins/jetpack/_inc/build/twitter-timeline.min.js?ver=4.0.0 (from https://www.circle.uchicago.edu/)
-18:13:46	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/wp-content/themes/divi/core/admin/js/common.js?ver=4.10.4 (from https://www.circle.uchicago.edu/)
-18:13:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/wp-content/themes/divi_uc/images/uchicago_shield.svg (from https://www.circle.uchicago.edu/wp-content/themes/divi_uc_2/style.css?ver=2.0.0)
-18:13:47	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.circle.uchicago.edu/wp-admin/admin-ajax.php (from https://www.circle.uchicago.edu/)
-18:13:47	Warning: 	Found for https://www.circle.uchicago.edu/files/2020/08/cropped-bed_logo-32x32.png
-18:13:47	Warning: 	Warning moved treated for https://www.circle.uchicago.edu/files/2020/08/cropped-bed_logo-32x32.png (real one is https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/7/2742/files/2020/08/cropped-bed_logo-32x32.png)
-18:13:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/files/2020/08/Serena-Dhaon-Headshot-Round.png (from https://www.circle.uchicago.edu/about-us/)
-18:13:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/files/2020/08/Amanda-Calipo-Headshot-Round-300x300.png (from https://www.circle.uchicago.edu/about-us/)
-18:13:49	Warning: 	Moved Permanently for https://www.circle.uchicago.edu/?p=332
-18:13:49	Warning: 	File has moved from https://www.circle.uchicago.edu/?p=332 to https://www.circle.uchicago.edu/projects/isleep/
-18:13:49	Error: 	"Not Found" (404) at link https://www.circle.uchicago.edu/projects/isleep/POST (from https://www.circle.uchicago.edu/projects/isleep/)
-18:13:49	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/7/2742/files/2020/09/ignite-logo-300x167.png (from https://www.circle.uchicago.edu/projects/)
-18:13:50	Warning: 	Found for https://www.circle.uchicago.edu/files/2020/08/shm-blog-logo-e1599406661124.png
-18:13:50	Warning: 	Warning moved treated for https://www.circle.uchicago.edu/files/2020/08/shm-blog-logo-e1599406661124.png (real one is https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/7/2742/files/2020/08/shm-blog-logo-e1599406661124.png)
-18:13:50	Warning: 	Found for https://www.circle.uchicago.edu/files/2020/08/shm-blog-logo-e1599406661124-300x44.png
-18:13:50	Warning: 	Warning moved treated for https://www.circle.uchicago.edu/files/2020/08/shm-blog-logo-e1599406661124-300x44.png (real one is https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/7/2742/files/2020/08/shm-blog-logo-e1599406661124-300x44.png)
-18:13:50	Warning: 	Found for https://www.circle.uchicago.edu/files/2020/09/microscope-275984_1920.jpg
-18:13:50	Warning: 	Warning moved treated for https://www.circle.uchicago.edu/files/2020/09/microscope-275984_1920.jpg (real one is https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/7/2742/files/2020/09/microscope-275984_1920.jpg)
-18:13:50	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/wp-json/wp/v2/pages/485 (from https://www.circle.uchicago.edu/contact-us/)
-18:13:51	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/?p=485 (from https://www.circle.uchicago.edu/contact-us/)
-18:13:53	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.circle.uchicago.edu/wp-content/themes/divi/core/admin/js/common.js?ver=4.10.4 (from https://www.circle.uchicago.edu/)
-18:13:53	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/7/2742/files/2020/08/cropped-bed_logo-32x32.png (from https://www.circle.uchicago.edu/)
-18:13:53	Warning: 	Found for https://www.circle.uchicago.edu/files/2020/08/Serena-Dhaon-Headshot-Round.png
-18:13:53	Warning: 	Warning moved treated for https://www.circle.uchicago.edu/files/2020/08/Serena-Dhaon-Headshot-Round.png (real one is https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/7/2742/files/2020/08/Serena-Dhaon-Headshot-Round.png)
-18:13:53	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.circle.uchicago.edu/files/2020/08/Amanda-Calipo-Headshot-Round-300x300.png (from https://www.circle.uchicago.edu/about-us/)
-18:13:53	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/7/2742/files/2020/08/shm-blog-logo-e1599406661124-300x44.png (from https://www.circle.uchicago.edu/publications/)
-18:13:54	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.circle.uchicago.edu/wp-json/wp/v2/pages/485 (from https://www.circle.uchicago.edu/contact-us/)
-18:13:54	Warning: 	Moved Permanently for https://www.circle.uchicago.edu/?p=485
-18:13:54	Warning: 	File has moved from https://www.circle.uchicago.edu/?p=485 to https://www.circle.uchicago.edu/contact-us/
-18:13:54	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/7/2742/files/2020/08/Serena-Dhaon-Headshot-Round.png (from https://www.circle.uchicago.edu/about-us/)
+14:34:18	Warning: 	warning: file size on disk (0) does not have the expected size (1291))
+14:34:26	Error: 	"Forbidden" (403) at link https://www.circle.uchicago.edu/xmlrpc.php (from https://www.circle.uchicago.edu/)
+14:34:30	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://www.circle.uchicago.edu/)
+14:34:31	Error: 	"Forbidden" (403) at link us-west-2.files.campus.edublogs.org.s3.amazonaws.com/ (from https://www.circle.uchicago.edu/)
+14:34:38	Error: 	"Forbidden" (403) at link https://www.circle.uchicago.edu/xmlrpc.php?rsd (from https://www.circle.uchicago.edu/)
+14:34:38	Error: 	"Not Found" (404) at link https://www.circle.uchicago.edu/POST (from https://www.circle.uchicago.edu/)
+14:34:38	Error: 	"Bad Request" (400) at link https://www.circle.uchicago.edu/wp-admin/admin-ajax.php (from https://www.circle.uchicago.edu/)
+14:35:00	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/7/2742/files/2020/12/WashPostStacked_New_600x.png (from https://www.circle.uchicago.edu/)
+14:35:03	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/7/2742/files/2020/12/npr_logo.png (from https://www.circle.uchicago.edu/)
+14:35:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/wp-content/themes/divi/core/admin/js/common.js?ver=4.10.4 (from https://www.circle.uchicago.edu/)
+14:35:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/wp-includes/js/wp-embed.min.js?ver=5.7.4 (from https://www.circle.uchicago.edu/)
+14:35:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/wp-content/themes/divi/core/admin/fonts/modules/all/modules.eot (from https://www.circle.uchicago.edu/wp-content/themes/divi/style-static.min.css?ver=4.10.5)
+14:35:04	Error: 	"Not Found" (404) at link https://www.circle.uchicago.edu/wp-content/themes/divi/includes/builder/images/subscribe-loader.gif (from https://www.circle.uchicago.edu/wp-content/themes/divi/style-static.min.css?ver=4.10.5)
+14:35:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/wp-content/plugins/jetpack/modules/shortcodes/img/slideshow-controls-2x.png (from https://www.circle.uchicago.edu/wp-content/plugins/jetpack/css/jetpack.css?ver=9.6.1)
+14:35:05	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/wp-content/plugins/jetpack/modules/shortcodes/images/slide-nav.png (from https://www.circle.uchicago.edu/wp-content/plugins/jetpack/css/jetpack.css?ver=9.6.1)
+14:35:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/wp-content/plugins/jetpack/modules/shortcodes/images/expand.png (from https://www.circle.uchicago.edu/wp-content/plugins/jetpack/css/jetpack.css?ver=9.6.1)
+14:35:07	Warning: 	Moved Permanently for https://www.circle.uchicago.edu/?p=7
+14:35:07	Warning: 	File has moved from https://www.circle.uchicago.edu/?p=7 to https://www.circle.uchicago.edu/about-us/
+14:35:07	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/about-us/POST (from https://www.circle.uchicago.edu/about-us/)
+14:35:07	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/wp-json/wp/v2/pages/200 (from https://www.circle.uchicago.edu/projects/)
+14:35:07	Warning: 	Moved Permanently for https://www.circle.uchicago.edu/?p=200
+14:35:07	Warning: 	File has moved from https://www.circle.uchicago.edu/?p=200 to https://www.circle.uchicago.edu/projects/
+14:35:07	Error: 	"Not Found" (404) at link https://www.circle.uchicago.edu/projects/POST (from https://www.circle.uchicago.edu/projects/)
+14:35:08	Warning: 	Moved Permanently for https://www.circle.uchicago.edu/?p=416
+14:35:08	Warning: 	File has moved from https://www.circle.uchicago.edu/?p=416 to https://www.circle.uchicago.edu/publications/
+14:35:08	Error: 	"Not Found" (404) at link https://www.circle.uchicago.edu/publications/POST (from https://www.circle.uchicago.edu/publications/)
+14:35:09	Warning: 	Note: due to https://login.proxy.uchicago.edu remote robots.txt rules, links beginning with these path will be forbidden: / (see in the options to disable this)
+14:35:09	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/files/2020/08/child-3089972_1920.jpg (from https://www.circle.uchicago.edu/publications/)
+14:35:11	Warning: 	Moved Permanently for https://www.circle.uchicago.edu/?p=466
+14:35:11	Warning: 	File has moved from https://www.circle.uchicago.edu/?p=466 to https://www.circle.uchicago.edu/media/
+14:35:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/media/POST (from https://www.circle.uchicago.edu/media/)
+14:35:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/wp-json/wp/v2/pages/485 (from https://www.circle.uchicago.edu/contact-us/)
+14:35:11	Warning: 	Moved Permanently for https://www.circle.uchicago.edu/?p=485
+14:35:11	Warning: 	File has moved from https://www.circle.uchicago.edu/?p=485 to https://www.circle.uchicago.edu/contact-us/
+14:35:11	Error: 	"Not Found" (404) at link https://www.circle.uchicago.edu/contact-us/POST (from https://www.circle.uchicago.edu/contact-us/)
+14:35:11	Warning: 	Moved Permanently for https://www.circle.uchicago.edu/?p=301
+14:35:11	Warning: 	File has moved from https://www.circle.uchicago.edu/?p=301 to https://www.circle.uchicago.edu/projects/siesta/
+14:35:11	Error: 	"Not Found" (404) at link https://www.circle.uchicago.edu/projects/siesta/POST (from https://www.circle.uchicago.edu/projects/siesta/)
+14:35:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/wp-content/themes/divi/core/admin/js/common.js?ver=4.10.4 (from https://www.circle.uchicago.edu/)
+14:35:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/wp-includes/js/wp-embed.min.js?ver=5.7.4 (from https://www.circle.uchicago.edu/)
+14:35:12	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/about-us/POST (from https://www.circle.uchicago.edu/about-us/)
+14:35:13	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/?p=332 (from https://www.circle.uchicago.edu/projects/isleep/)
+14:35:13	Error: 	"Not Found" (404) at link https://www.circle.uchicago.edu/projects/isleep/POST (from https://www.circle.uchicago.edu/projects/isleep/)
+14:35:13	Warning: 	Found for https://www.circle.uchicago.edu/files/2020/08/child-3089972_1920.jpg
+14:35:13	Warning: 	Warning moved treated for https://www.circle.uchicago.edu/files/2020/08/child-3089972_1920.jpg (real one is https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/7/2742/files/2020/08/child-3089972_1920.jpg)
+14:35:14	Error: 	"Not Found" (404) at link https://www.circle.uchicago.edu/media/POST (from https://www.circle.uchicago.edu/media/)
+14:35:14	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/wp-json/wp/v2/pages/485 (from https://www.circle.uchicago.edu/contact-us/)
+14:35:14	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.circle.uchicago.edu/wp-content/themes/divi/core/admin/js/common.js?ver=4.10.4 (from https://www.circle.uchicago.edu/)
+14:35:15	Error: 	"Not Found" (404) at link https://www.circle.uchicago.edu/about-us/POST (from https://www.circle.uchicago.edu/about-us/)
+14:35:15	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.circle.uchicago.edu/?p=332 (from https://www.circle.uchicago.edu/projects/isleep/)
+14:35:15	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://www.circle.uchicago.edu/wp-json/wp/v2/pages/485 (from https://www.circle.uchicago.edu/contact-us/)
+14:35:15	Warning: 	Moved Permanently for https://www.circle.uchicago.edu/?p=332
+14:35:15	Warning: 	File has moved from https://www.circle.uchicago.edu/?p=332 to https://www.circle.uchicago.edu/projects/isleep/
 
-HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 21 seconds : 205 links scanned, 138 files written (10721574 bytes overall), 20 files updated [2062836 bytes received at 25467 bytes/sec], 1105667 bytes transferred using HTTP compression in 19 files, ratio 17%, 2.8 requests per connection
-(19 errors, 58 warnings, 0 messages)
+HTTrack Website Copier/3.49-2 mirror complete in 59 seconds : 188 links scanned, 141 files written (10817121 bytes overall), 42 files updated [1318356 bytes received at 22345 bytes/sec], 605898 bytes transferred using HTTP compression in 28 files, ratio 29%, 3.1 requests per connection
+(16 errors, 37 warnings, 0 messages)
